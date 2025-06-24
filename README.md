@@ -14,8 +14,6 @@ The AWS GenAI LLM Chatbot is a production-ready solution that enables organizati
 - **Enterprise Security**: Fine-grained access controls, audit logging, and data encryption
 - **Conversation Memory**: Full conversation history with persistent storage
 - **Web UI and API Access**: Modern React interface and API endpoints for integration
-- **Cost Optimization**: Token usage tracking and cost management features
-- **Deployment Flexibility**: Multiple deployment options to fit your needs
 
 ## Getting Started
 
@@ -44,10 +42,3 @@ The solution architecture includes:
 - Amazon API Gateway for API access
 - React-based web interface
 
-## Documentation
-
-For complete documentation, visit the [GitHub repository](https://github.com/aws-samples/aws-genai-llm-chatbot).
-
-## License
-
-This project is licensed under the MIT-0 License.

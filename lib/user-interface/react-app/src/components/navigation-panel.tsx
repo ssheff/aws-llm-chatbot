@@ -101,15 +101,6 @@ export default function NavigationPanel() {
         ],
       });
 
-      items.push(
-        { type: "divider" },
-        {
-          type: "link",
-          text: "Documentation",
-          href: "https://aws-samples.github.io/aws-genai-llm-chatbot/",
-          external: true,
-        }
-      );
     }
 
     return items;
